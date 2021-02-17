@@ -1,0 +1,11 @@
+@charset "utf-8";
+/* CSS Document */
+
+body{
+	color: aliceblue;
+	padding-left: 20px;
+	background-color:#1a8cff;
+}
+#tip{
+	font-size:14px;
+}
